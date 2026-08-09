@@ -5,7 +5,7 @@ Welcome to my LeetCode problem-solving repository! Here, I track my journey, sol
 ## 📊 Current Stats in this journey
 
 - **Easy:** 132
-- **Medium:** 64
+- **Medium:** 66
 - **Hard:** 7
-- **Total Questions Solved:** 203
+- **Total Questions Solved:** 205
 
